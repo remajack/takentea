@@ -1,6 +1,6 @@
 {
   "name": "takentea",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -9,20 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "dangerdawg": "^0.1.3",
-    "longteea": "^0.1.3",
-    "mecorner": "^0.1.1",
+    "dangerdawg": "^0.1.4",
+    "isaacfawehinmi258": "^0.1.3",
+    "longteea": "^0.1.4",
+    "mecorner": "^0.1.2",
     "next": "14.1.3",
-    "nicetoken": "^1.1.5",
+    "nicetoken": "^1.1.6",
     "olatuyitony347": "^0.1.2",
     "olitea": "^0.1.0",
     "onos": "^0.1.2",
     "react": "^18",
     "react-dom": "^18",
+    "solomogu": "^0.1.3",
     "takentea": "^0.1.0",
-    "ttlonger": "^0.1.1",
+    "ttlonger": "^0.1.2",
     "vistea": "^0.1.0",
-    "zdaface": "^0.1.2"
+    "wakinjoseph": "^0.1.3",
+    "zdaface": "^0.1.3"
   },
   "devDependencies": {
     "@types/node": "^20",
